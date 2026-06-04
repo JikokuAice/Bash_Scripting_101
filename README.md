@@ -1,2 +1,29 @@
 # Bash_Scripting_101
-It is for re uploading automated bash script of many use cases.
+# Bash Scripts
+
+A collection of clean, practical, and reusable Bash scripts for DevOps, automation, and everyday system tasks.
+
+## Purpose
+
+I'm learning DevOps and building this repository to:
+- Practice shell scripting
+- Create useful automation tools
+- Document my learning journey
+
+## Scripts
+
+| Script | Description | Use Case |
+|--------|-------------|----------|
+| `logs.sh | Automated logs error checking alert via /logs.sh and save logs to .text insde logs folder | Error Monitoring |
+| ... | ... | ... |
+
+*(More scripts will be added regularly)*
+
+## How to Use
+
+```bash
+# Make script executable
+chmod +x script-name.sh
+
+# Run the script
+./script-name.sh
