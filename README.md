@@ -14,7 +14,7 @@ I'm learning DevOps and building this repository to:
 
 | Script | Description | Use Case |
 |--------|-------------|----------|
-| `logs.sh | Automated logs error checking alert via /logs.sh and save logs to .text insde logs folder | Error Monitoring |
+| `logs.sh | Automated logs error checking alert via /logs.sh and save logs to .text inside logs folder | Error Monitoring |
 | ... | ... | ... |
 
 *(More scripts will be added regularly)*
