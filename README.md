@@ -15,7 +15,7 @@ I'm learning DevOps and building this repository to:
 | Script | Description | Use Case |
 |--------|-------------|----------|
 | `logs.sh | Automated logs error checking alert via /logs.sh and save logs to .text inside logs folder | Error Monitoring |
-| ... | ... | ... |
+| sysmon.sh | Automated Server Health monitoring especially RAM CPU and SERVER UPTIME IN DAYS | Uptime exceed error via alert |
 
 *(More scripts will be added regularly)*
 
